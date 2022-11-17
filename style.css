@@ -17,3 +17,9 @@ h1{
   font-size: 80px;
   background-color: brown;
 }
+h2{
+  clear:both;
+  text-align: center;
+  font-size: 60px;
+  background-color:bisque;
+}
