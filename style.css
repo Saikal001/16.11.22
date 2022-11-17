@@ -1,3 +1,19 @@
 *{
   box-sizing: border-box;
 }
+title{
+  text-align: center;
+  text-decoration: dashed;
+  color: blueviolet;
+  
+}
+body{
+  padding: 50px;
+  border: 2px;
+}
+h1{
+  text-align: center;
+  text-decoration: dashed;
+  font-size: 80px;
+  background-color: brown;
+}
